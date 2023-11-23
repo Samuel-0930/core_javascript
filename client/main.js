@@ -1,5 +1,1 @@
-console.log(navigator.language);
-
-const a = 'hello';
-
-console.log(a);
+alert('마우스 우클릭은 사용할 수 없습니다.');
